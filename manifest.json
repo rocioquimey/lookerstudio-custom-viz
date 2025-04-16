@@ -6,9 +6,9 @@
     "version": "1.0.0",
     "description": "Muestra tarjetas con imagen, título y descripción",
     "supportUrl": "https://tuempresa.com/soporte",
-    "logoUrl": "https://lumiere-a.akamaihd.net/v1/images/disney_lg_461e3e00.png",
+    "logoUrl": "https://storage.googleapis.com/looker-custom-viz-yourcompany/logo.png",
     "assets": {
-      "script": "https://rocioquimey.github.io/lookerstudio-custom-viz/viz.js"
+      "script": "https://storage.googleapis.com/looker-custom-viz-yourcompany/viz.js"
     }
   }
 }
