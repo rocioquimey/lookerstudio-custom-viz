@@ -1,4 +1,3 @@
-
 // Si usás npm: const dscc = require('@google/dscc');
 // En entornos sin bundler incluye dscc desde CDN global
 
