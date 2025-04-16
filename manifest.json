@@ -1,1 +1,13 @@
 
+{
+  "dataStudio": {
+    "name": "Card Table",
+    "id": "card_table_viz",
+    "company": "Tu Empresa",
+    "description": "Muestra tarjetas con imagen, título y descripción",
+    "supportUrl": "https://tuempresa.com/soporte",
+    "assets": {
+      "script": "https://YOUR_HOSTING_URL/viz.js"
+    }
+  }
+}
