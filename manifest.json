@@ -6,7 +6,7 @@
     "description": "Muestra tarjetas con imagen, título y descripción",
     "supportUrl": "https://tuempresa.com/soporte",
     "assets": {
-      "script": "https://YOUR_HOSTING_URL/viz.js"
+      "script": "https://rocioquimey.github.io/lookerstudio-custom-viz/viz.js"
     }
   }
 }
